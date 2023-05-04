@@ -14,7 +14,7 @@ export const Loader = () => {
         marginRight: 'auto',
       }}
       wrapperClass="blocks-wrapper"
-      colors={['#e15b64', '#f47e60', '#f8b26a', '#abbd81', '#849b87']}
+      colors={['#45D9F5', '#4DFFF6', '#43E6BA', '#45FFA4', '#3AF271']}
     />
   );
 };
